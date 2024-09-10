@@ -1,0 +1,44 @@
+[
+  {
+    "quote": "I... a universe of atoms, an atom in the universe.",
+    "author": "Richard Feynman",
+    "lang": "en",
+    "tags": ["science", "physics"]
+  },
+  {
+    "quote": "Control of consciousness determines the quality of life.",
+    "author": "Mihaly Csikszentmihalyi",
+    "lang": "en",
+    "tags": ["mind", "life"]
+  },
+  {
+    "quote": "He was going to live forever, or die in the attempt.",
+    "author": "Joseph Heller",
+    "lang": "en",
+    "tags": ["humor", "life"]
+  },
+  {
+    "quote": "What I cannot create, I do not understand.",
+    "author": "Ricahrd Feynman",
+    "lang": "en",
+    "tags": ["learning"]
+  },
+  {
+    "quote": "What I hear, I forget; What I see, I remember; What I do, I understand.",
+    "author": "Confucius",
+    "lang": "en",
+    "tags": ["learning"]
+  },
+  {
+    "quote": "The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.",
+    "author": "Marcel Proust",
+    "lang": "en",
+    "tags": ["exploration"]
+  },
+  {
+    "quote": "The only kind of learning which significantly influences behavior is self-discovered or self-appropriated—truth that has been assimilated in experience.",
+    "author": "Carl Rogers",
+    "lang": "en",
+    "tags": ["psychology", "learning"]
+  }
+]
