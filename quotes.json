@@ -40,5 +40,19 @@
     "author": "Carl Rogers",
     "lang": "en",
     "tags": ["psychology", "learning"]
+  },
+  {
+    "quote": "In the beginner’s mind there are many possibilities, but in the expert’s there are few",
+    "author": "Shunryu Suzuki",
+    "lang": "en",
+    "tags": ["philosophy", "zen", "inspirational"]
+  },
+  {
+    "quote": "Doing something is expressing our own nature. We do not exist for the sake of something else. We exist for the sake of ourselves.",
+    "author": "Shunryu Suzuki",
+    "lang": "en",
+    "tags": ["philosophy", "zen", "practice"]
   }
+
+
 ]
